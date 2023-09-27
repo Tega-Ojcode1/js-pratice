@@ -11,3 +11,13 @@ for (let i = 0; i < numbers.length; i++) {
 
 
 console.log(sum);
+   
+
+// q2
+
+const names = ["tega ", 'micah', 'imoke']
+for (let j = names; j == names[2]; j = names){
+    console.log(j[2]);
+}
+
+
